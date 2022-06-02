@@ -1,0 +1,19 @@
+{
+  "name": "npm-lib-publish-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vooord/npm-lib-publish-test.git"
+  },
+  "author": "Yan Novak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vooord/npm-lib-publish-test/issues"
+  },
+  "homepage": "https://github.com/Vooord/npm-lib-publish-test#readme"
+}
